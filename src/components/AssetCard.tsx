@@ -3,7 +3,7 @@ import Card from "../Assets/TrendingCrypto/card.svg";
 
 const AssetCard = ({ asset }: { asset: any }) => {
   return (
-    <div className="box-border relative text-white m-[30px] ">
+    <div className="box-border relative text-white m-[30px] max-[400px]:ml-[50px]">
       <img src={Card} className="w-[290px] h-[450px] " />
       {/* Coin  */}
       <div
