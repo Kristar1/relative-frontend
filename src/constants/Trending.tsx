@@ -61,6 +61,6 @@ export const TrendingAssets = [
     range: "negative",
     logoBg: { src: ShibaBg },
     logo: { src: ShibaLogo },
-    popularPairs: { src1: SolanaLogo, src2: SolanaLogo, src3: BinanceLogo },
+    popularPairs: { src1: SolanaLogo, src2: EthereumLogo, src3: BinanceLogo },
   },
 ];
